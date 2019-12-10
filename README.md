@@ -7,7 +7,7 @@ It's a web that exposes you a login form and you must discover the username and 
 
 ### Solution
 Brute-Force Attack using WFuzz and DirBuster. <br>
-[DirBuster - file/folder automated discovery](https://github.com/xmendez/wfuzz)
+[DirBuster - file/folder automated discovery](https://github.com/xmendez/wfuzz)<br>
 [WFuzz - web automated discovery](https://github.com/xmendez/wfuzz)
 
 Told to DirBuster to find valid paths (files/folder) on http://www.docker.hackthebox.eu:31887
